@@ -1,4 +1,5 @@
 # MNIST Neural Network from Scratch (NumPy)
+# (Inspired from Samson Zhang)
 
 A 2-layer fully connected neural network built from scratch using only **NumPy**, **Pandas**, and **Matplotlib**—no PyTorch, TensorFlow, or scikit-learn—to classify handwritten digits from the MNIST dataset.
 
